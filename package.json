@@ -1,0 +1,25 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "membuat bot pemula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novanto10/my-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "novanz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novanto10/my-bot/issues"
+  },
+  "homepage": "https://github.com/Novanto10/my-bot#readme",
+  "dependencies": {
+    "nama-orang-orang": "^1.1.0"
+  }
+}
